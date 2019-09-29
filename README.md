@@ -1,7 +1,7 @@
 <h3>Requirement</h3>
 Nodejs
 <h3>Quick Setup</h3>
-git clone https://github.com/krishheii/Nextjs-CRED.git
+<p>git clone https://github.com/krishheii/Nextjs-CRED.git</p>
 <p>cd busy Nextjs-CRED-master</p>
 <p>npm install</p>
 <p>npm run dev</p>
