@@ -1,10 +1,10 @@
-<h1>Requirement</h1>
+<h3>Requirement</h3>
 Nodejs
-<h1>Quick Setup</h1>
+<h3>Quick Setup</h3>
 git clone https://github.com/krishheii/Nextjs-CRED.git
-cd busy Nextjs-CRED-master
-npm install
-npm run dev
-<h1>Hosted online on</h1>
+<p>cd busy Nextjs-CRED-master</p>
+<p>npm install</p>
+<p>npm run dev</p>
+<h3>Deployed Link</h3>
 https://test.krishnanunny.now.sh/
 
